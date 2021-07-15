@@ -28,9 +28,11 @@ td{
 }
 .two{
     background-color:#000000;
+    flex-flow: wrap;
 }
 .one{
     background-color:#646663;
+    flex-flow: wrap;
 }
 .tabla{
     border-color: black;

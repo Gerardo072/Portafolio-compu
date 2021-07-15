@@ -8,6 +8,7 @@
     width: 100%;
     margin: auto;
     box-sizing: border-box;
+    flex-flow: wrap;
 }
 .section{
     width: 1000px;

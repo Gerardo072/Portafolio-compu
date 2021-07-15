@@ -7,6 +7,7 @@
 .header{
     width: 1000px;
     margin: auto;
+    flex-flow: wrap;
 }
 .section{
     width: 1000px;
@@ -31,28 +32,28 @@
     font-size: 20px;
 }
 .Subtitulo_1{
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     font-family: fantasy;
     text-align: center;
     background-color: yellow;
 }
 .Subtitulo_2{
-    font-size: 20px;
+    font-size: 15px;
     color: blue;
     font-family: fantasy;
     text-align: center;
     background-color: yellow;
 }
 .Subtitulo_3{
-    font-size: 20px;
+    font-size: 10px;
     color: darkgreen;
     font-family: fantasy;
     text-align: center;
     background-color: yellow;
 }
 .Subtitulo_4{
-    font-size: 20px;
+    font-size: 10px;
     color: darkmagenta;
     font-family: fantasy;
     text-align: center;
